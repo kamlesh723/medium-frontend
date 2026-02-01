@@ -8,6 +8,8 @@ import axios from 'axios';
  * - Default headers
  * - Request/Response interceptors for JWT token handling
  */
+// in the files add all this
+
 
 // Get API base URL from environment variable or use default
 const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
